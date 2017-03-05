@@ -18,7 +18,7 @@ How does it work?
   * The net effect is that the CPU runs at full power at all times. This is really only a concern if heat or power consumption is a concern in your particular situation.
 
 Usage
-*****
+-----
 
 To use, simply execute the script as root, or with sudo
 
