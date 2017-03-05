@@ -20,9 +20,11 @@ How does it work?
 Usage
 *****
 
-  To use, simply execute the script as root, or with sudo
+To use, simply execute the script as root, or with sudo
+
     ./disable_c-states.sh
-  The script will issue generic risk warnings and ask one final time whether you want to continue.
+
+The script will issue generic risk warnings and ask one final time whether you want to continue.
 
   NOTE: Upon successful completion, a reboot is required to activate the change.
 

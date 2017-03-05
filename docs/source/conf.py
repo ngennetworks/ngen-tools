@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# doctut documentation build configuration file, created by
+# NGEN Tools documentation build configuration file, created by
 # sphinx-quickstart on Sat Mar  4 19:31:57 2017.
 #
 # This file is execfile()d with the current directory set to its
@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'doctut'
+project = u'NGEN Tools'
 copyright = u'2017, ngen-brett'
 author = u'ngen-brett'
 
@@ -99,7 +99,7 @@ html_static_path = ['nstatic']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'doctutdoc'
+htmlhelp_basename = 'NGEN Toolsdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -126,7 +126,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'doctut.tex', u'doctut Documentation',
+    (master_doc, 'NGEN Tools.tex', u'NGEN Tools Documentation',
      u'ngen-brett', 'manual'),
 ]
 
@@ -136,7 +136,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'doctut', u'doctut Documentation',
+    (master_doc, 'NGEN Tools', u'NGEN Tools Documentation',
      [author], 1)
 ]
 
@@ -147,7 +147,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'doctut', u'doctut Documentation',
-     author, 'doctut', 'One line description of project.',
+    (master_doc, 'NGEN Tools', u'NGEN Tools Documentation',
+     author, 'NGEN Tools', 'One line description of project.',
      'Miscellaneous'),
 ]
